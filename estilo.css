@@ -7,17 +7,29 @@ border-radius: 100px;
 
 div {
 font-family: Tahoma;
-text-align: center;
 color: #b3d5e3;
 padding-top: 35px;
 }
+ h1 {
+text-align: center;
+}
 
+h2 {
+text-align: center;
+}
 
 p {
+text-align: center;
 font-size: 18px;
 line-height: 30px;
 padding: 30px 50px;
 color: #ebf0f2;
+}
+
+ul {
+display: block;
+margin: 0 auto;
+width: 300px;
 }
 
 .descricao p {
